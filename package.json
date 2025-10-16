@@ -4,7 +4,8 @@
   "description": "Sunucu Tabanlı Programlama Dersi 2026",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/huseyinenescetinel/sunucu2026/issues"
   },
-  "homepage": "https://github.com/huseyinenescetinel/sunucu2026#readme"
+  "homepage": "https://github.com/huseyinenescetinel/sunucu2026#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
