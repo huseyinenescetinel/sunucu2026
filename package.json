@@ -1,0 +1,20 @@
+{
+  "name": "sunucu2026",
+  "version": "1.0.0",
+  "description": "Sunucu Tabanlı Programlama Dersi 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huseyinenescetinel/sunucu2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huseyinenescetinel/sunucu2026/issues"
+  },
+  "homepage": "https://github.com/huseyinenescetinel/sunucu2026#readme"
+}
